@@ -1,0 +1,4 @@
+ATLAS_Model filter=lfs diff=lfs merge=lfs -text
+ATLAS_Model/* filter=lfs diff=lfs merge=lfs -text
+ATLAS_Model/ filter=lfs diff=lfs merge=lfs -text
+ATLAS_Model/** filter=lfs diff=lfs merge=lfs -text
