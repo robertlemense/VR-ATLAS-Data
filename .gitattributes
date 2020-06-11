@@ -2,3 +2,10 @@ ATLAS_Model filter=lfs diff=lfs merge=lfs -text
 ATLAS_Model/* filter=lfs diff=lfs merge=lfs -text
 ATLAS_Model/ filter=lfs diff=lfs merge=lfs -text
 ATLAS_Model/** filter=lfs diff=lfs merge=lfs -text
+ATLASrift filter=lfs diff=lfs merge=lfs -text
+ATLASrift/ filter=lfs diff=lfs merge=lfs -text
+ATLASrift/** filter=lfs diff=lfs merge=lfs -text
+ATLASrift/* filter=lfs diff=lfs merge=lfs -text
+cube_and_blueprint/** filter=lfs diff=lfs merge=lfs -text
+cube_and_blueprint/* filter=lfs diff=lfs merge=lfs -text
+cube_and_blueprint/ filter=lfs diff=lfs merge=lfs -text
